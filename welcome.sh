@@ -2,4 +2,4 @@
 
 
 
-echo 'Welcome to Chicago, beach as'
+echo 'Welcome to Chicago, take the first plane back to where you came from'
